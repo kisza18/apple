@@ -26,7 +26,7 @@
         >
           {{ text }}
         </h5>
-        <div class="cta-links text-blue-400 mt-2 text-md md:text-lg lg:text-xl">
+        <div class="cta-links text-gray-100 mt-2 text-md md:text-lg lg:text-xl">
           <a class="hover:underline" href="info"
             >További információ<i class="fal fa-chevron-right text-xs ml-1"></i
           ></a>
